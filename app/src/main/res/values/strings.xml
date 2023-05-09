@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImagePickerProject</string>
+    <string name="selected_image">Seçilen Fotoğraf</string>
+    <string name="set_image">Fotograf Yükle</string>
+    <string name="select_image">Fotoğraf Seç</string>
+    <string name="take_picture">Fotograf Çek</string>
+    <string name="image_picker">Seçiminizi Yapın</string>
+</resources>
